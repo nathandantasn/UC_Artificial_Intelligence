@@ -3,6 +3,10 @@ Repositório criado para adicionar os conteúdos que são estudados na unidade c
 
 Também contém conteúdos extras relacionados a Python, como um material PowerPoint elaborado pela T-Systems e um "manual" de Python.
 
+Bibliotecas padrão Python: https://docs.python.org/3/library
+
+Bibliotecas terceiros: https://pypi.python.org/
+
 ## 📁Documentações (Links)
 Documentações de blibliotecas utilizadas na UC. Estes links serão constantemente atualizados.
 
